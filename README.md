@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deichprophet
-- 👀 I’m interested in smart home / home assistanr
+- 👀 I’m interested in smart home / home assistant
 - 🌱 I’m currently learning home assitant ;-)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me deichprophet@teamdiek.de
